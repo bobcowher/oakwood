@@ -1,0 +1,403 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: martin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-01-27 07:27-0500\n"
+"PO-Revision-Date: 2011-01-27 07:28-0500\n"
+"Last-Translator: MAC\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: E:\\xampplite\\htdocs\\wordpress/wp-content/themes/martin\n"
+"X-Poedit-SearchPath-0: E:\\xampplite\\htdocs\\wordpress/wp-content/themes/martin\n"
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/404.php:14
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/loop.php:20
+msgid "Not Found"
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/404.php:16
+msgid "Apologies, but the page you requested could not be found. Perhaps searching will help."
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/archive.php:17
+#, php-format
+msgid "Daily Archives: <span>%s</span>"
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/archive.php:19
+#, php-format
+msgid "Monthly Archives: <span>%s</span>"
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/archive.php:21
+#, php-format
+msgid "Yearly Archives: <span>%s</span>"
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/archive.php:23
+msgid "Blog Archives"
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/author.php:15
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/category.php:14
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/comments.php:11
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/comments.php:29
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/comments.php:40
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/comments.php:30
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/comments.php:41
+msgid "Newer Comments <span class=\"meta-nav\">&raquo;</span>"
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/comments.php:53
+msgid "Comments are closed."
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/footer.php:15
+#, php-format
+msgid "%1$s by %2$s"
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/footer.php:15
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/footer.php:15
+#, php-format
+msgid "Proudly powered by %s."
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/full-width-page.php:20
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/image.php:96
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/loop.php:112
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/page.php:24
+msgid "Pages:"
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/full-width-page.php:21
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/functions.php:341
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/image.php:33
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/image.php:45
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/image.php:102
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/loop.php:40
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/loop.php:77
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/loop.php:130
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/page.php:25
+msgid "Edit"
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/functions.php:62
+msgid "Primary Navigation"
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/functions.php:63
+msgid "Secondary Navigation"
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/functions.php:96
+msgid "Header 1"
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/functions.php:103
+msgid "Header 2"
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/functions.php:110
+msgid "Header 3"
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/functions.php:117
+msgid "Header 4"
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/functions.php:268
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/loop.php:85
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/loop.php:111
+msgid "Read more <span class=\"meta-nav\">&raquo;</span>"
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/functions.php:335
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/functions.php:346
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/functions.php:360
+msgid "Pingback:"
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/functions.php:360
+msgid "(Edit)"
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/functions.php:378
+msgid "Primary Widget Area"
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/functions.php:380
+msgid "The primary widget area"
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/functions.php:389
+msgid "Secondary Widget Area"
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/functions.php:391
+msgid "The secondary widget area appears in 3-column layouts"
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/functions.php:400
+msgid "Feature Widget Area"
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/functions.php:402
+msgid "The feature widget above the sidebars in Content-Sidebar-Sidebar and Sidebar-Sidebar-Content layouts"
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/functions.php:411
+msgid "First Footer Widget Area"
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/functions.php:413
+msgid "The first footer widget area"
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/functions.php:422
+msgid "Second Footer Widget Area"
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/functions.php:424
+msgid "The second footer widget area"
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/functions.php:433
+msgid "Third Footer Widget Area"
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/functions.php:435
+msgid "The third footer widget area"
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/functions.php:444
+msgid "Fourth Footer Widget Area"
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/functions.php:446
+msgid "The fourth footer widget area"
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/functions.php:475
+#, php-format
+msgid "<span class=\"%1$s\">Posted on</span> %2$s <span class=\"meta-sep\">by</span> %3$s"
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/functions.php:501
+#, php-format
+msgid "This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/functions.php:503
+#, php-format
+msgid "This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/functions.php:505
+#, php-format
+msgid "Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/header.php:27
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/image.php:23
+#, php-format
+msgid "<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class=\"entry-date\"><abbr class=\"published\" title=\"%1$s\">%2$s</abbr></span>  at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%7$s</a>"
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/image.php:39
+#, php-format
+msgid "<span class=\"meta-prep meta-prep-entry-date\">Uploaded </span> at <a href=\"%1$s\" title=\"Link to full-size image\">%2$s &times; %3$s</a>"
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/image.php:50
+msgid "&larr; Previous"
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/image.php:51
+msgid "Next &rarr;"
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/loop.php:12
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/loop.php:143
+msgid "<span class=\"meta-nav\">&laquo;</span> Older posts"
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/loop.php:13
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/loop.php:144
+msgid "Newer posts <span class=\"meta-nav\">&raquo;</span>"
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/loop.php:22
+msgid "Could not find the item you were trying to reach."
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/loop.php:57
+#, php-format
+msgid "This gallery contains <a %1$s>%2$s photos</a>."
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/loop.php:77
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/loop.php:102
+msgid "Leave a comment"
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/loop.php:77
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/loop.php:102
+msgid "1 Comment"
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/loop.php:77
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/loop.php:102
+msgid "% Comments"
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/loop.php:119
+#, php-format
+msgid "<span class=\"%1$s\">Posted in</span> %2$s"
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/loop.php:127
+#, php-format
+msgid "<span class=\"%1$s\">Tagged</span> %2$s"
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/search.php:14
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/search.php:18
+msgid "Nothing Found"
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/search.php:20
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/searchform.php:10
+msgid "Search"
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/sidebar.php:45
+msgid "Recent Entries"
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/sidebar.php:62
+msgid "Links"
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/sidebar.php:86
+msgid "Meta"
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/tag.php:14
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/inc/theme-options.php:25
+msgid "Theme Options"
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/inc/theme-options.php:35
+msgid "Default"
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/inc/theme-options.php:50
+msgid "Sidebar-Content-Sidebar"
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/inc/theme-options.php:54
+msgid "Content-Sidebar"
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/inc/theme-options.php:58
+msgid "Sidebar-Content"
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/inc/theme-options.php:62
+msgid "Content-Sidebar-Sidebar"
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/inc/theme-options.php:66
+msgid "Sidebar-Sidebar-Content"
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/inc/theme-options.php:101
+#, php-format
+msgid "%1$s Theme Options"
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/inc/theme-options.php:105
+msgid "Options saved"
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/inc/theme-options.php:119
+msgid "Color Scheme"
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/inc/theme-options.php:138
+msgid "Select a default color scheme"
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/inc/theme-options.php:147
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/inc/theme-options.php:149
+msgid "Default Layout"
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/inc/theme-options.php:185
+msgid "Aside Category"
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/inc/theme-options.php:188
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/inc/theme-options.php:219
+msgid "Select a category &hellip;"
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/inc/theme-options.php:207
+msgid "Select a category to use for shorter aside posts"
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/inc/theme-options.php:216
+msgid "Gallery Category"
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/inc/theme-options.php:237
+msgid "Select a category to use for posts with image galleries"
+msgstr ""
+
+#: E:\xampplite\htdocs\wordpress/wp-content/themes/martin/inc/theme-options.php:245
+msgid "Save Options"
+msgstr ""
+

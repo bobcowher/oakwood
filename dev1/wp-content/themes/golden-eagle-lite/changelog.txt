@@ -1,0 +1,7 @@
+== Changelog ==
+
+= Theme Name: Golden Eagle Theme Lite
+
+= Version: 1.0 =
+
+* * Golden Eagle Theme is created on 1st July,2012.

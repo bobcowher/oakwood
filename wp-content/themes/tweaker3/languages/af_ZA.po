@@ -1,0 +1,405 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Arnold Goodway <arnold@tweaker.co.za>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in echo
+#: tweaker3/single.php:17
+#: tweaker3/page.php:20
+#: tweaker3/loop.php:51
+#: tweaker3/loop.php:58
+#: tweaker3/page-wide.php:24
+msgid " on "
+msgstr " op "
+
+#. Text in function
+#: tweaker3/comments.php:24
+msgid "% Responses to"
+msgstr "% Terugvoere vir"
+
+#. Text in function
+#: tweaker3/index.php:21
+#: tweaker3/archive.php:42
+#: tweaker3/search.php:20
+msgid "&laquo; Newer Entries"
+msgstr "&laquo; Meer Onlangse Artikels"
+
+#. Text in echo
+#: tweaker3/404.php:13
+msgid "An error has occurred. Something has either been moved or it is no longer available."
+msgstr "'n Fout het ingetree. Iets is of geskuif of dit is nie meer beskikbaar nie."
+
+#. Text in echo
+#: tweaker3/archive.php:25
+#: tweaker3/archive.php:27
+#: tweaker3/archive.php:29
+msgid "Archive for "
+msgstr "Argief vir"
+
+#. Text in echo
+#: tweaker3/archive.php:21
+msgid "Archive for the "
+msgstr "Argief vir die "
+
+#. Text in echo
+#: tweaker3/sitemap.php:77
+msgid "Atom feed"
+msgstr "Atom voer"
+
+#. Text in echo
+#: tweaker3/sitemap.php:64
+msgid "Authors"
+msgstr "Outeure"
+
+#. Text in echo
+#: tweaker3/single.php:17
+#: tweaker3/page.php:20
+#: tweaker3/loop.php:51
+#: tweaker3/loop.php:58
+#: tweaker3/page-wide.php:24
+msgid "By "
+msgstr "Deur  "
+
+#. Text in function
+#: tweaker3/comments.php:64
+msgid "Cancel reply"
+msgstr "Kanselleer antwoord"
+
+#. Text in echo
+#: tweaker3/find.php:30
+#: tweaker3/sitemap.php:47
+msgid "Categories"
+msgstr "Kategoriee"
+
+#. Text in echo
+#: tweaker3/archive.php:21
+msgid "Category"
+msgstr "Kategorie"
+
+#. Text in function
+#: tweaker3/functions.php:1
+msgid "Click for Home"
+msgstr "Kliek vir Tuisblad"
+
+#. Text in echo
+#: tweaker3/header.php:30
+msgid "Click for home"
+msgstr "Kliek vir tuisblad"
+
+#. Text in function
+#: tweaker3/comments.php:64
+#: tweaker3/loop.php:14
+#: tweaker3/loop.php:52
+#: tweaker3/loop.php:59
+msgid "Comment"
+msgstr "Kommentaar"
+
+#. Text in function
+#: tweaker3/loop.php:14
+#: tweaker3/loop.php:52
+#: tweaker3/loop.php:59
+msgid "Comments"
+msgstr "Kommentare"
+
+#. Text in echo
+#: tweaker3/sitemap.php:78
+msgid "Comments RSS 2.0 feed"
+msgstr "Kommentaar RSS 2.0 voer"
+
+#. Text in echo
+#: tweaker3/comments.php:52
+msgid "Comments are closed."
+msgstr "Kommentaar is gesluit."
+
+#. Text in function
+#: tweaker3/loop.php:72
+msgid "Continue reading "
+msgstr "Lees verder "
+
+#. Text in echo
+#: tweaker3/footer.php:25
+msgid "Copyright"
+msgstr "Kopiereg"
+
+#. Text in function
+#: tweaker3/single.php:17
+#: tweaker3/page.php:20
+#: tweaker3/loop.php:51
+#: tweaker3/loop.php:58
+#: tweaker3/page-wide.php:24
+msgid "Edit"
+msgstr "Wysig"
+
+#. Text in function
+#: tweaker3/comments.php:64
+msgid "Email"
+msgstr "Epos"
+
+#. Text in function
+#: tweaker3/archive.php:27
+#: tweaker3/breadcrumb.php:19
+msgid "F Y"
+msgstr "F Y"
+
+#. Text in echo
+#: tweaker3/sitemap.php:72
+msgid "Feeds"
+msgstr "Voere"
+
+#. Text in echo
+#: tweaker3/breadcrumb.php:15
+#: tweaker3/breadcrumb.php:17
+#: tweaker3/functions.php:1
+msgid "Home"
+msgstr "Tuisblad"
+
+#. Text in function
+#: tweaker3/comments.php:64
+msgid "Leave a Reply"
+msgstr "Los 'n Antwoord"
+
+#. Text in function
+#: tweaker3/comments.php:64
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr "Aangeteken as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Teken uit hierdie rekening\">Teken af?</a>"
+
+#. Text in echo
+#: tweaker3/find.php:19
+#: tweaker3/sitemap.php:28
+msgid "Monthly Archives"
+msgstr "Maandelikse Argiewe"
+
+#. Text in function
+#: tweaker3/comments.php:64
+msgid "Name"
+msgstr "Naam"
+
+#. Text in function
+#: tweaker3/comments.php:24
+msgid "No Responses to"
+msgstr "Geen Terugvoering op"
+
+#. Text in echo
+#: tweaker3/index.php:27
+msgid "Not Found"
+msgstr "Nie Gevind nie"
+
+#. Text in function
+#: tweaker3/index.php:22
+#: tweaker3/archive.php:43
+#: tweaker3/search.php:21
+msgid "Older Entries &raquo;"
+msgstr "Ouer Artikels &raquo;"
+
+#. Text in function
+#: tweaker3/comments.php:24
+msgid "One Response to"
+msgstr "Een Kommentaar vir"
+
+#. Text in function
+#: tweaker3/breadcrumb.php:19
+msgid "Page not found"
+msgstr "Blaai nie gevind nie"
+
+#. Text in echo
+#: tweaker3/sitemap.php:36
+msgid "Pages"
+msgstr "Blaaie"
+
+#. Text in function
+#: tweaker3/single.php:21
+#: tweaker3/page.php:18
+#: tweaker3/loop.php:74
+#: tweaker3/sitemap.php:20
+#: tweaker3/page-wide.php:21
+msgid "Pages:"
+msgstr "Blaaie:"
+
+#. Text in echo
+#: tweaker3/loop.php:14
+msgid "Permalink"
+msgstr "Vaste skakel"
+
+#. Text in function
+#: tweaker3/loop.php:14
+#: tweaker3/loop.php:28
+#: tweaker3/loop.php:32
+#: tweaker3/loop.php:40
+#: tweaker3/loop.php:51
+#: tweaker3/loop.php:58
+msgid "Permalink to %s"
+msgstr "Vasskakel na %s"
+
+#. Text in function
+#: tweaker3/comments.php:8
+msgid "Please do not load this page directly. Thanks!"
+msgstr "Moet nie hierdie blaai direk laai nie. Dankie!"
+
+#. Text in function
+#: tweaker3/comments.php:64
+msgid "Post Comment"
+msgstr "Pos Kommentaar"
+
+#. Text in echo
+#: tweaker3/sitemap.php:85
+msgid "Posts"
+msgstr "Artikels"
+
+#. Text in echo
+#: tweaker3/archive.php:23
+msgid "Posts tagged "
+msgstr "Artikels met die etiket "
+
+#. Text in function
+#: tweaker3/footer.php:26
+msgid "Powered by %1$s and %2$s"
+msgstr "Aaangedryf deur %1$s en %2$s"
+
+#. Text in echo
+#: tweaker3/sitemap.php:74
+msgid "RDF/RSS 1.0 feed"
+msgstr "RDF/RSS 1.0 voer"
+
+#. Text in echo
+#: tweaker3/sitemap.php:75
+msgid "RSS 0.92 feed"
+msgstr "RSS 0.92 voer"
+
+#. Text in echo
+#: tweaker3/sitemap.php:76
+msgid "RSS 2.0 feed"
+msgstr "RSS 2.0 voer"
+
+#. Text in echo
+#: tweaker3/find.php:45
+msgid "Recent Posts"
+msgstr "Onlangse Artikels"
+
+#. Text in function
+#: tweaker3/comments.php:36
+msgid "Reply"
+msgstr "Antwoord"
+
+#. Text in function
+#: tweaker3/comments.php:62
+msgid "Required fields are marked <span class=\"required\">*</span>"
+msgstr "Vereiste velde is gemerk <span class=\"required\">*</span>"
+
+#. Text in echo
+#: tweaker3/searchform.php:16
+#: tweaker3/find.php:11
+msgid "Search"
+msgstr "Soek"
+
+#. Text in function
+#: tweaker3/search.php:10
+msgid "Search Results for: %s"
+msgstr "Soek Resulate vir: %s"
+
+#. Text in echo
+#: tweaker3/searchform.php:15
+msgid "Search this site..."
+msgstr "Soek deur hierdie werf..."
+
+#. Text in echo
+#: tweaker3/index.php:28
+msgid "Sorry, but you are looking for something that is not here."
+msgstr "Jammer, maar jy soek iets vir iets wat nie hier is nie."
+
+#. Text in echo
+#: tweaker3/single.php:53
+msgid "Sorry, there does not appear to be any posts here."
+msgstr "Jammer, dit blyk asof daar geen artikels hier is nie."
+
+#. Text in echo
+#: tweaker3/find.php:38
+#: tweaker3/sitemap.php:55
+msgid "Tags"
+msgstr "Etikette"
+
+#. Text in echo
+#: tweaker3/archive.php:31
+msgid "The following articles were authored by "
+msgstr "Die volgende artikels is geskryf deur "
+
+#. Text in function
+#: tweaker3/functions.php:193
+msgid "This entry is filed under %1$s and tagged %2$s."
+msgstr "Hierdie artikel is geliaseer onder %1$s met die etiket(te) %2$s."
+
+#. Text in function
+#: tweaker3/functions.php:193
+msgid "This entry is filed under %1$s."
+msgstr "Die volgende is geliaseer onder %1$s."
+
+#. Text in echo
+#: tweaker3/comments.php:13
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Hierdie bydra is beskerm deur 'n wagwoord. Sleutel die wagwoord in om toegang tot die kommentare te kry."
+
+#. Text in function
+#: tweaker3/comments.php:64
+msgid "Website"
+msgstr "Webtuiste"
+
+#. Text in function
+#: tweaker3/functions.php:1
+msgid "Widgets you add here will be added to center footer widget area"
+msgstr "Enigiets wat jy hier insit sal vertoon word op die middel voeterstrook"
+
+#. Text in function
+#: tweaker3/functions.php:1
+msgid "Widgets you add here will be added to left footer widget area"
+msgstr "Enigiets wat jy hier insit sal vertoon word op die linkerkantsel voeterstrook"
+
+#. Text in function
+#: tweaker3/functions.php:1
+msgid "Widgets you add here will be added to right footer widget area"
+msgstr "Enigiets wat jy hier insit sal vertoon word op die regtekantsel voeterstrook"
+
+#. Text in function
+#: tweaker3/functions.php:1
+msgid "Widgets you add here will be added to the sidebar"
+msgstr "Enigiets wat jy hier insit sal vertoon word op die systrook"
+
+#. Text in function
+#: tweaker3/archive.php:29
+msgid "Y"
+msgstr "Y"
+
+#. Text in function
+#: tweaker3/functions.php:1
+msgid "You are Home"
+msgstr "Jy is op die Tuisblad"
+
+#. Text in echo
+#: tweaker3/404.php:16
+msgid "You have searched for something that could not be found. Hopefully the following will be of assistance to you."
+msgstr "Jy het vir iets gesoek wat nie gevind kan word nie. Hopelik sal die volgende van help wees."
+
+#. Text in echo
+#: tweaker3/search.php:26
+msgid "You have searched for something that could not be found. To find whatever it is you are looking for, you could:"
+msgstr "Jy het vir iets gesoek wat nie gevind kan word nie. Om dit te kry waarvoor jy soek, kan jy:"
+
+#. Text in function
+#: tweaker3/comments.php:64
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Jy moet <a href=\"%s\">aangeteken wees</a> om kommentaar te lewer."
+
+#. Text in function
+#: tweaker3/comments.php:64
+msgid "Your email address will not be published."
+msgstr "Jou epos adres sal nie gepubliseer word nie."
+
+#. Text in function
+#: tweaker3/archive.php:25
+msgid "j F Y"
+msgstr "j F Y"
+

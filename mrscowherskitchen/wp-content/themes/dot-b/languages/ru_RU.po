@@ -1,0 +1,407 @@
+# Copyright (C) 2010 Dot-B in Russian
+# This file is distributed under the same license as the Dot-B package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Dot-B 1.8.6\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-10-08 16:25+0800\n"
+"PO-Revision-Date: 2011-12-02 19:12+0800\n"
+"Last-Translator: hzlzh <hzlzh.dev@gmail.com>\n"
+"Language-Team: Alexander <admin@k-notes.ru>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:12
+#: index.php:27
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "Неприятная новость"
+
+#: 404.php:15
+#: index.php:30
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching, or one of the links below, can help."
+msgstr "Запрошенную информацию найти не удалось. Возможно, будет полезен поиск по сайту или приведённые ниже ссылки."
+
+#: 404.php:19
+#: index.php:34
+msgid "Most Used Categories"
+msgstr "Часто используемые рубрики"
+
+#: 404.php:27
+#: index.php:42
+msgid "Try looking in the monthly archives."
+msgstr "Загляните в архивы по месяцам."
+
+#: archive.php:18
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Архив за день: %s"
+
+#: archive.php:20
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Архив за месяц: %s"
+
+#: archive.php:22
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Архив за год: %s"
+
+#: archive.php:24
+msgid "Blog Archives"
+msgstr "Архив блога"
+
+#: archive.php:31
+#: index.php:12
+#, php-format
+msgid "Posted on %s"
+msgstr "Опубликовано %s"
+
+#: archive.php:32
+#: index.php:13
+#: page.php:9
+#: single.php:9
+msgid "by"
+msgstr "Автор"
+
+#: archive.php:33
+#: index.php:14
+#: page.php:10
+#: single.php:11
+msgid "[ Edit ]"
+msgstr "[Изменить]"
+
+#: archive.php:36
+#: index.php:17
+msgid "Read more &raquo;"
+msgstr "Читать далее &raquo;"
+
+#: archive.php:42
+#: comments.php:10
+#: index.php:23
+#: page.php:19
+#: single.php:20
+msgid "Leave a Reply ?"
+msgstr "Комментировать?"
+
+#: archive.php:42
+#: index.php:23
+#: page.php:19
+#: single.php:20
+msgid "[ 1 Reply ]"
+msgstr "[1 Комментарий]"
+
+#: archive.php:42
+#: index.php:23
+#: page.php:19
+#: single.php:20
+msgid "[ % Replies ]"
+msgstr "[Комментарии (%)]"
+
+#: archive.php:46
+#: page.php:23
+#: single.php:28
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: comments.php:3
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Эта запись защищена паролем. Введите пароль, чтобы посмотреть комментарии."
+
+#: footer.php:11
+#: theme-options.php:233
+msgid "queries in"
+msgstr "запросов за"
+
+#: footer.php:11
+#: theme-options.php:233
+msgid "seconds"
+msgstr "секунд"
+
+#: footer.php:14
+msgid "Back to top"
+msgstr "Вверх"
+
+#: footer.php:14
+msgid "Top"
+msgstr "Вверх"
+
+#: functions.php:55
+msgid "House"
+msgstr "Дом"
+
+#: functions.php:61
+msgid "Inkwell"
+msgstr "Чернила"
+
+#: functions.php:67
+msgid "Willow"
+msgstr "Ива"
+
+#: functions.php:73
+msgid "Shore"
+msgstr "Берег"
+
+#: functions.php:79
+msgid "Sky"
+msgstr "Небо"
+
+#: functions.php:85
+msgid "Path"
+msgstr "Дорога"
+
+#: functions.php:93
+msgid "Header Menu"
+msgstr "Меню Заголовка"
+
+#: functions.php:94
+msgid "Custom Social Media"
+msgstr "Произвольные Социальные Сервисы"
+
+#: functions.php:105
+msgid "SideBar"
+msgstr "Боковая колонка"
+
+#: functions.php:165
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s в %2$s"
+
+#: functions.php:165
+msgid "(Edit)"
+msgstr "(Изменить)"
+
+#: functions.php:170
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает проверки."
+
+#: functions.php:202
+msgid "Display Colorful Tags Cloud"
+msgstr "Отображать Цветное Облако Меток"
+
+#: functions.php:203
+msgid "Colorful Tag Cloud"
+msgstr "Цветное Облако Меток"
+
+#: functions.php:226
+msgid "Tag Cloud"
+msgstr "Облако меток"
+
+#: functions.php:230
+msgid "Title"
+msgstr "Заголовок"
+
+#: header.php:21
+#, php-format
+msgid "Page %s"
+msgstr "Страница %s"
+
+#: header.php:48
+msgid "RSS Feed"
+msgstr "RSS Лента"
+
+#: page.php:8
+#: single.php:8
+#, php-format
+msgid "Posted on %s "
+msgstr "Опубликовано %s "
+
+#: searchform.php:3
+msgid "type, hit enter"
+msgstr "Поиск..."
+
+#: searchform.php:4
+msgid "SEARCH"
+msgstr "ПОИСК"
+
+#: sidebar.php:16
+msgid "Recent Post"
+msgstr "Свежие записи"
+
+#: sidebar.php:20
+msgid "Recent Comments"
+msgstr "Свежие комментарии"
+
+#: sidebar.php:24
+msgid "Archives"
+msgstr "Архивы"
+
+#: sidebar.php:31
+msgid "Tags"
+msgstr "Метки"
+
+#: sidebar.php:38
+msgid "Meta"
+msgstr "Прочее"
+
+#: single.php:10
+msgid "in"
+msgstr "в"
+
+#: single.php:23
+msgid "Already the latest post!"
+msgstr "Данная запись является последней!"
+
+#: single.php:24
+msgid "Already the last post!"
+msgstr "Данная запись является последней!"
+
+#: theme-options.php:8
+msgid "Read more"
+msgstr "Читать далее"
+
+#: theme-options.php:124
+#: theme-options.php:160
+msgid "Theme Options"
+msgstr "Настройки Темы"
+
+#: theme-options.php:163
+msgid "Options reset successfully!"
+msgstr "Настройки успешно сброшены!"
+
+#: theme-options.php:165
+msgid "Options saved successfully!"
+msgstr "Настройки успешно сохранены!"
+
+#: theme-options.php:180
+msgid "Rss Feed URL"
+msgstr "Адрес RSS Ленты"
+
+#: theme-options.php:182
+msgid "( With \"<code>http://</code>\" )   Keep blank to use WordPress default Rss Feed URL."
+msgstr "( С \"<code>http://</code>\" ) Оставьте пустым, чтобы использовать стандартный WordPress адрес RSS Ленты."
+
+#: theme-options.php:186
+msgid "Enable Excerpt"
+msgstr "Разрешить использование Цитат"
+
+#: theme-options.php:189
+msgid "Show excerpt in Home and Archives with"
+msgstr "Отображать цитаты на Главной и в Архивах длиной"
+
+#: theme-options.php:192
+msgid "length"
+msgstr "слов"
+
+#: theme-options.php:196
+msgid "Text of Read More link"
+msgstr "Текст ссылки \"Читать далее\""
+
+#: theme-options.php:198
+#: theme-options.php:218
+#: theme-options.php:225
+#: theme-options.php:233
+#: theme-options.php:241
+msgid "Preview"
+msgstr "Предпросмотр"
+
+#: theme-options.php:202
+msgid "Use Google Analytics?"
+msgstr "Использовать Google Analytics?"
+
+#: theme-options.php:205
+msgid "You can get you <code>Google Analytics</code> code <a target=\"_blank\" href=\"https://www.google.com/analytics/settings/check_status_profile_handler\">here</a>."
+msgstr "Вы можете получить ваш код <code>Google Analytics</code> <a target=\"_blank\" href=\"https://www.google.com/analytics/settings/check_status_profile_handler\">здесь</a>."
+
+#: theme-options.php:210
+msgid "Analytics Code"
+msgstr "Код Google Analytics"
+
+#: theme-options.php:216
+msgid "Footer Copyright"
+msgstr "Информация о Copyright"
+
+#: theme-options.php:222
+msgid "Display colourful bar on header and footer?"
+msgstr "Отображать цветную панель в заголовке и подвале?"
+
+#: theme-options.php:230
+msgid "Display SQL count at footer?"
+msgstr "Отображать счетчик SQL запросов в подвале?"
+
+#: theme-options.php:238
+msgid "Display Comment Note below comment form?"
+msgstr "Отображать Примечания к Комментариям под формой отправки?"
+
+#: theme-options.php:258
+msgid "Some Tips Here"
+msgstr "Несколько Подсказок"
+
+#: theme-options.php:260
+msgid "1.Customize your Social Media (Facebook, Twitter, Google+ .etc) according to this"
+msgstr "1. Настройте ваши Социальные Сервисы (Facebook, Twitter, Google+ и т.д.) согласно инструкциям"
+
+#: theme-options.php:260
+#: theme-options.php:264
+msgid "Instructions"
+msgstr "Инструкции"
+
+#: theme-options.php:261
+msgid "2.Your threaded (nested) comments"
+msgstr "2. Ваши настройки древовидных (вложенных) комментариев содержат"
+
+#: theme-options.php:261
+msgid "levels deep, change it here"
+msgstr "уровней вложенности, измените настройки здесь"
+
+#: theme-options.php:261
+msgid "Settings"
+msgstr "Параметры"
+
+#: theme-options.php:261
+msgid "Discussion"
+msgstr "Обсуждение"
+
+#: theme-options.php:262
+msgid "3.Change <code>&lt;Body&gt;</code> background image here"
+msgstr "3. Измените фон сайта здесь"
+
+#: theme-options.php:262
+#: theme-options.php:263
+#: theme-options.php:265
+msgid "Appearance"
+msgstr "Внешний вид"
+
+#: theme-options.php:262
+msgid "Background"
+msgstr "Фон"
+
+#: theme-options.php:263
+msgid "4.Customize <code>&lt;Header&gt;</code> image here"
+msgstr "4. Настройте изображение заголовка здесь"
+
+#: theme-options.php:263
+msgid "Header"
+msgstr "Заголовок"
+
+#: theme-options.php:264
+msgid "5.Download & Customize <code>Social Media Icons</code> from PSD source files here"
+msgstr "5. Скачайте и Настройте <code>Иконки Социальных Сервисов</code> из PSD файлов здесь"
+
+#: theme-options.php:265
+msgid "6.Use <code>Dot-B Colorful Tag Cloud</code> widget at sidebar"
+msgstr "6. Используйте виджет <code>Dot-B Цветное Облако Меток</code> в боковой колонке"
+
+#: theme-options.php:265
+msgid "Widgets"
+msgstr "Виджеты"
+
+#: theme-options.php:266
+msgid "========= Feel free to get my help by both Twitter: <a href=\"http://twitter.com/hzlzh\">@hzlzh</a> and Email: <a href=\"mailto:hzlzh.dev@gmail.com\">hzlzh.dev@gmail.com</a> ========="
+msgstr "========= Получите бесплатную консультацию, связавшись со мной при момощи Twitter: <a href=\"http://twitter.com/hzlzh\">@hzlzh</a> и Email: <a href=\"mailto:hzlzh.dev@gmail.com\">hzlzh.dev@gmail.com</a> ========="
+
+#: theme-options.php:273
+msgid "Created, Developed and maintained by <a href=\"http://zlz.im/\">hzlzh</a><br>If you like the <code>Dot-B</code> theme, please donate. It will help in developing new features and versions."
+msgstr "Создано, разработано и поддерживается <a href=\"http://zlz.im/\">hzlzh</a>. Тема переведена - <a href=\"http://k-notes.ru/\">k-notes.ru</a><br>Если вам понравилась тема <code>Dot-B</code>, пожалуйта, пожертвуйте. Ваш вклад поможет в разработке новых функций и выпуске новых версий."
+
+#: theme-options.php:293
+msgid "Alipay"
+msgstr "Alipay"
+

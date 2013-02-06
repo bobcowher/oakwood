@@ -1,0 +1,22 @@
+#wpcontent select option {
+	padding-right: 5px;
+}
+#martin-layouts td {
+	padding-top: 15px;
+}
+#martin-layouts label {
+	display: block;
+	float: left;
+	margin: 0 20px 20px 2px;
+	position: relative;
+}
+#martin-layouts input {
+	margin: 0 0 10px;
+}
+#martin-layouts span {
+	display: block;
+	width: 136px;
+}
+#martin-layouts img {
+	margin: 0 0 0 -2px;
+}

@@ -1,0 +1,398 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: tweaker3 1.0.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-04-26 22:05+0100\n"
+"PO-Revision-Date: 2011-05-01 19:58+0100\n"
+"Last-Translator: frado <frado@frado.net>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n>1\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: F:\\xampplite\\htdocs\\wordpressdomi\\blog\\wp-content\\themes\\tweaker3103PourValidationFR\n"
+
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/404.php:13
+msgid "An error has occurred. Something has either been moved or it is no longer available."
+msgstr "Ha ocurrido un error. Algo ha debido ser movido o no sigue disponible."
+
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/404.php:16
+msgid "You have searched for something that could not be found. Hopefully the following will be of assistance to you."
+msgstr "Has buscado algo que no se pudo encontrar. Esperemos que el siguiente será de ayuda para usted."
+
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/archive.php:21
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/archive_original.php:21
+msgid "Archive for the "
+msgstr "Archivo para la categoría "
+
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/archive.php:21
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/archive_original.php:21
+msgid "Category"
+msgstr "Categoría"
+
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/archive.php:23
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/archive_original.php:23
+msgid "Posts tagged "
+msgstr "Artículos con palabras clave"
+
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/archive.php:25
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/archive.php:27
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/archive.php:29
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/archive_original.php:25
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/archive_original.php:27
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/archive_original.php:29
+msgid "Archive for "
+msgstr "Archivo para"
+
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/archive.php:25
+msgid "j F Y"
+msgstr "j F Y"
+
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/archive.php:27
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/breadcrumb.php:44
+msgid "F Y"
+msgstr "F Y"
+
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/archive.php:29
+msgid "Y"
+msgstr "Y"
+
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/archive.php:31
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/archive_original.php:31
+msgid "The following articles were authored by "
+msgstr "Los siguientes artículos fueron escritos por"
+
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/archive.php:42
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/archive_original.php:42
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/index.php:21
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/search.php:20
+msgid "&laquo; Newer Entries"
+msgstr "&laquo; Artículos siguientes"
+
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/archive.php:43
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/archive_original.php:43
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/index.php:22
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/search.php:21
+msgid "Older Entries &raquo;"
+msgstr "Artículos anteriores &raquo;"
+
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/breadcrumb.php:15
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/breadcrumb.php:17
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/breadcrumb_original.php:15
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/breadcrumb_original.php:17
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/functions.php:63
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/functions.php:65
+msgid "Home"
+msgstr "Inicio"
+
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/breadcrumb.php:58
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/breadcrumb_original.php:58
+msgid "Main Page Archive - Page "
+msgstr "Archivo de la página principal - Página"
+
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/breadcrumb.php:62
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/breadcrumb_original.php:62
+msgid "Search results"
+msgstr "Resultados de la Búsqueda"
+
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/breadcrumb.php:66
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/breadcrumb_original.php:66
+msgid " <span> for "
+msgstr " <span> por"
+
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/breadcrumb.php:68
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/breadcrumb_original.php:68
+msgid "</span>"
+msgstr "</span>"
+
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/breadcrumb.php:72
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/breadcrumb_original.php:72
+msgid "Page not found"
+msgstr "Página no encontrada"
+
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/comments.php:11
+msgid "Please do not load this page directly. Thanks!"
+msgstr "Por favor, no cargar esta página directamente. ¡Gracias!"
+
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/comments.php:13
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Este artículo está protegido por contraseña. Ingrese su contraseña para ver los comentarios."
+
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/comments.php:24
+msgid "No Responses to"
+msgstr "No hay comentarios"
+
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/comments.php:24
+msgid "One Response to"
+msgstr "1 comentario para"
+
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/comments.php:24
+msgid "% Responses to"
+msgstr "% Comentarios para"
+
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/comments.php:26
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/comments.php:36
+msgid "Reply"
+msgstr "Responder"
+
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/comments.php:52
+msgid "Comments are closed."
+msgstr "Comentarios cerrados"
+
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/comments.php:62
+msgid "Required fields are marked <span class=\"required\">*</span>"
+msgstr "Los campos marcados son <span class=\"obligatorios\">*</span>"
+
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/comments.php:66
+msgid "Name"
+msgstr "Nombre"
+
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/comments.php:72
+msgid "Email"
+msgstr "Email"
+
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/comments.php:76
+msgid "Website"
+msgstr "Página web"
+
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/comments.php:79
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/loop.php:14
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/loop.php:52
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/loop.php:59
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/loop_original.php:14
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/loop_original.php:52
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/loop_original.php:59
+msgid "Comment"
+msgstr "Comentario"
+
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/comments.php:83
+msgid "Leave a Reply"
+msgstr "Deja un comentario"
+
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/comments.php:84
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr "Conectado como <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Cerrar sesión\">Desconectarse?</a>"
+
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/comments.php:85
+msgid "Post Comment"
+msgstr "Publicar comentario"
+
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/comments.php:86
+msgid "Your email address will not be published."
+msgstr "Tu email no será publicado"
+
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/comments.php:87
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Usted debe estar <a href=\"%s\">conectado</a> para publicar un comentario."
+
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/comments.php:88
+msgid "Cancel reply"
+msgstr "Cancelar respuesta"
+
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/find.php:11
+msgid "Search"
+msgstr "Buscar"
+
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/find.php:19
+msgid "Monthly Archives"
+msgstr "Archivos mensuales"
+
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/find.php:30
+msgid "Categories"
+msgstr "Categorías"
+
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/find.php:38
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/find.php:45
+msgid "Recent Posts"
+msgstr "Artículos recientes"
+
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/footer.php:25
+msgid "Copyright"
+msgstr "Copyright"
+
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/footer.php:26
+#, php-format
+msgid "Powered by %1$s and %2$s"
+msgstr "Powered by %1$s and %2$s"
+
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/functions.php:63
+msgid "You are Home"
+msgstr "Estas en la página de inicio"
+
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/functions.php:65
+msgid "Click for Home"
+msgstr "Haga clic para ir a la página de inicio"
+
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/functions.php:83
+msgid "Widgets you add here will be added to the sidebar"
+msgstr "Los widgets que se agregan se colocarán en la barra lateral"
+
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/functions.php:92
+msgid "Widgets you add here will be added to left footer widget area"
+msgstr "Los widgets que se agregan aquí se quedarán abajo a la izquierda"
+
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/functions.php:101
+msgid "Widgets you add here will be added to center footer widget area"
+msgstr "Los widgets que se agregan aquí se quedarán abajo en el centro"
+
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/functions.php:110
+msgid "Widgets you add here will be added to right footer widget area"
+msgstr "Los widgets que se agregan aquí se quedarán abajo a la derecha"
+
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/functions.php:221
+#, php-format
+msgid "This entry is filed under %1$s and tagged %2$s."
+msgstr "Este artículo fue publicado en %1$s con las etiquetas %2$s."
+
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/functions.php:223
+#, php-format
+msgid "This entry is filed under %1$s."
+msgstr "Este artículo fue publicado en %1$s."
+
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/header.php:30
+msgid "Click for home"
+msgstr "Haga clic para ir a la página de inicio"
+
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/index.php:27
+msgid "Not Found"
+msgstr "No encontrado"
+
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/index.php:28
+msgid "Sorry, but you are looking for something that is not here."
+msgstr "Lo sentimos, usted está buscando algo que no está aquí."
+
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/loop.php:14
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/loop.php:28
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/loop.php:32
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/loop.php:40
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/loop.php:51
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/loop.php:58
+#, php-format
+msgid "Permalink to %s"
+msgstr "Enlace permanente a %s"
+
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/loop.php:14
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/loop_original.php:14
+msgid "Permalink"
+msgstr "Enlace permanente"
+
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/loop.php:14
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/loop.php:52
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/loop.php:59
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/loop_original.php:14
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/loop_original.php:52
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/loop_original.php:59
+msgid "Comments"
+msgstr "Comentarios"
+
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/loop.php:51
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/loop.php:58
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/loop_original.php:51
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/loop_original.php:58
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/page-wide.php:24
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/page.php:20
+msgid "By "
+msgstr "Por "
+
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/loop.php:51
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/loop.php:58
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/loop_original.php:51
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/loop_original.php:58
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/page-wide.php:24
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/page.php:20
+msgid " on "
+msgstr " el "
+
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/loop.php:51
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/loop.php:58
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/loop_original.php:51
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/loop_original.php:58
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/page-wide.php:24
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/page.php:20
+msgid "Edit"
+msgstr "Editar"
+
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/loop.php:72
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/loop_original.php:72
+msgid "Continue reading "
+msgstr "Continuar leyendo"
+
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/loop.php:74
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/loop_original.php:74
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/page-wide.php:21
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/page.php:18
+msgid "Pages:"
+msgstr "Páginas :"
+
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/search.php:10
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Resultados de búsqueda para: %s"
+
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/search.php:26
+msgid "You have searched for something that could not be found. To find whatever it is you are looking for, you could:"
+msgstr "Está buscando algo que no se pudo encontrar. Para encontrar lo que desea, puede utilizar uno de los siguientes recursos:"
+
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/searchform.php:15
+msgid "Search this site..."
+msgstr "Buscar en el sitio ..."
+
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/single.php:53
+msgid "Sorry, there does not appear to be any posts here."
+msgstr "Lo sentimos, parece que aquí no hay ninguna entrada."
+
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/sitemap.php:36
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/sitemap_original.php:36
+msgid "Pages"
+msgstr "Páginas"
+
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/sitemap.php:64
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/sitemap_original.php:64
+msgid "Authors"
+msgstr "Autores"
+
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/sitemap.php:72
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/sitemap_original.php:72
+msgid "Feeds"
+msgstr "Feeds"
+
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/sitemap.php:74
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/sitemap_original.php:74
+msgid "RDF/RSS 1.0 feed"
+msgstr "RDF/RSS 1.0 feed"
+
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/sitemap.php:75
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/sitemap_original.php:75
+msgid "RSS 0.92 feed"
+msgstr "RSS 0.92 feed"
+
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/sitemap.php:76
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/sitemap_original.php:76
+msgid "RSS 2.0 feed"
+msgstr "RSS 2.0 feed"
+
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/sitemap.php:77
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/sitemap_original.php:77
+msgid "Atom feed"
+msgstr "Atom feed"
+
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/sitemap.php:78
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/sitemap_original.php:78
+msgid "Comments RSS 2.0 feed"
+msgstr "Comments RSS 2.0 feed"
+
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/sitemap.php:85
+#: F:\xampplite\htdocs\wordpressdomi\blog\wp-content\themes\tweaker3103PourValidationFR/sitemap_original.php:85
+msgid "Posts"
+msgstr "Artículos"
+

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html <?php language_attributes('html'); ?>><head>
+    <meta http-equiv="Content-Type" content="<?php echo get_bloginfo('html_type') .'; charset=' . get_bloginfo('charset'); ?>">
+    <title><?php echo tarski_doctitle(); ?></title>
+    <?php wp_head(); ?>
+</head>
+
+<body id="<?php echo tarski_bodyid(); ?>" <?php body_class(); ?>>
+
+<div id="wrapper" class="tarski">
+    <div id="header">
+        <?php th_header(); ?>
+	<img src="images/logo.png" align=right border="0"/ >
+    </div>
+    <div id="logo">
+
+</div> 
+    
+    <div id="content" class="clearfix">
